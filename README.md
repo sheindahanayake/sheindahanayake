@@ -1,10 +1,7 @@
-
 ---
-
 ## 👋 **Hi, I'm Shashein!**
 
 I’m a **Full Stack Developer** with a passion for building **scalable** and **performant** web applications. With expertise in both **front-end** and **back-end** development, I specialize in creating seamless **user experiences** and robust systems. I thrive on exploring new technologies and continuously evolving my skillset. 🚀
-
 ---
 
 ### 🔧 **Technologies I Work With:**
@@ -24,6 +21,9 @@ I’m a **Full Stack Developer** with a passion for building **scalable** and **
 #### **DevOps:**
 - 🚀 **Docker**, **CI/CD**, **Jenkins**, **AWS**
 
+#### **IoT:**
+- 🌐 **ESP32**, **Arduino**, **Sensors (e.g., NPK, DHT11)**, **Blynk**, **Firebase**
+
 #### **Other:**
 - 🔌 **GraphQL**, **REST APIs**, **WebSockets**, **Web3**
 
@@ -42,6 +42,7 @@ I’m a **Full Stack Developer** with a passion for building **scalable** and **
 - 💬 Real-time applications using **WebSockets**
 - 📊 Building **Machine Learning models** for **predictive analytics**
 - 🛒 Developing full-stack **e-commerce websites** with **payment gateway** integration
+- 🌍 Creating **IoT projects** with **ESP32**, **Arduino**, and real-time data visualization
 
 ---
 
@@ -50,9 +51,3 @@ I’m a **Full Stack Developer** with a passion for building **scalable** and **
 I’m passionate about **solving complex problems**, **collaborating** with teams, and **experimenting** with emerging technologies. Each project is an opportunity to learn, grow, and create something impactful! 🎯
 
 ---
-
-
-
-
-
-
