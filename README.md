@@ -14,7 +14,6 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Volunteer  at **Stemup Community**.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://shasheinportfolio.netlify.app/) for more details about me.
 <!--End Intro-->
@@ -23,7 +22,7 @@
 <p align="left">
 <a href="linkedin.com/in/sheindahanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shein" height="30" width="40" /></a>
 <a href="https://instagram.com/shein.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shein" height="30" width="40" /></a>
-<a href="https://medium.com/@majithdushantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@majithdushantha" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
