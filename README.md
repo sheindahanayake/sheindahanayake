@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineer | Creative Designer | Machine Learning Excited</h3>
 <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture>
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushantha2000&label=Profile%20views&color=0e75b6&style=flat" alt="dushantha2000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushantha2000&label=Profile%20views&color=0e75b6&style=flat" alt="sheindahanayake" /> </p>
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <!--Start Intro-->               
 <p align="left">I am a Software Engineer and Machine Learning Excited skilled in Python, React.js, Laravel, MySQL, MongoDB, REST APIs, and Data Visualization. Passionate about building efficient, user-friendly solutions and exploring innovative technologies. </p>
@@ -46,6 +46,6 @@
 </p>
 
 ----
-Credit: [dushantha2000](https://github.com/dushantha2000])
+Credit: [sheindahanayake]([(https://github.com/sheindahanayake)])
 
 Last Edited on: 15/05/2024
