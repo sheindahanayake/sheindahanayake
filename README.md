@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dushantha Majith</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Shashein Dahanayake</h1>
 <h3 align="center">Software Engineer | Creative Designer | Machine Learning Excited</h3>
 <picture ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"></picture>
 <br><br>
@@ -15,7 +15,6 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Volunteer  at **Stemup Community**.
-- ✍ I write technical blogs, You can visit my blog site at [xtechnologyworld](https://xtechnologyworld.blogspot.com/).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://dushanthamajith.netlify.app/) for more details about me.
 <!--End Intro-->
